@@ -1,0 +1,23 @@
+{
+  "baseline_revision": "9f7a231117823067d946f05a6aa14aa4963a99aa",
+  "revised_revision": "f873b469b9661a2f212d14e410834ca568348a84",
+  "compiled_artifacts_revision": "84bcbc62644356270aaaa5e2d0237d03adc9bb3a",
+  "production_files": {
+    "vllm/model_executor/layers/pooler/tokwise/heads.py": {
+      "baseline": "05271f01bb2f9566b29609677096a365c2eed424500b883da0812b2824d2c576",
+      "revised": "afdecab6756a45c903a41ff6e4fd15ed4e548ed805c88a7ca0c85c8059b6a666"
+    },
+    "vllm/model_executor/layers/pooler/tokwise/methods.py": {
+      "baseline": "2d31fa48b781108f1ab514dc4b05eaf5e51dd83f56fc52fadc39c73471a30bd4",
+      "revised": "566a539733aac9618094d081f09c68568fa532be6828b5bcace1f8b24f994237"
+    },
+    "vllm/model_executor/layers/pooler/tokwise/poolers.py": {
+      "baseline": "e0fc56f5c24998f9fc133f480b0906e70c78532558d1c7ed171eefb21ac1f627",
+      "revised": "65dd877e53b50e2f7a5439de1619e3143f3255c31ec31f547ca1097b4ffd9675"
+    }
+  },
+  "scripts": {
+    "benchmark_late_chunking.py": "dcc46feabc29295f75c835be500bb567fbe8d4c18a2532e9a8dca0904e554d50",
+    "benchmark_late_chunk_pooling.py": "b6aa99de2739a408a8ec034792b91b7c8e89327d3efa102861471f3a2cf41181"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "metadata_edit": "Output paths shortened to basenames; samples and measured results unchanged.",
+  "files": {
+    "04-bench-selected-batch1.json": {
+      "original_sha256": "a761b3b5307f64fa8628c796ffe84b640277187587f7beac240b737a36489888",
+      "shared_sha256": "1f9e744ab73c0cb7e816a87dcac416ddc8d6a6360ba5811fb1a29c5dd5b4fae1"
+    },
+    "04-bench-selected-batch8.json": {
+      "original_sha256": "c9cc7b5a47492fae407938bb434450db6dec802287eca1b5d17199c74d043848",
+      "shared_sha256": "28bf01b05ef0508b6b294ed4ce6676566f83a5fbe26e39b55d713faa3bdaf6fe"
+    },
+    "04-bench-compiled.json": {
+      "original_sha256": "61345770942334002b72a0e72fdfc86e66b81dc8b2833112a46448f1dcbcf7f5",
+      "shared_sha256": "4967e39f827697ec35c092a18bb90ff6586e497084aabb2aea90c0a951b7c434"
+    },
+    "04-e2e-new-1.json": {
+      "original_sha256": "ba84fc420f77e4dcf5e73d538103cb53c15a6861c9cf3a3dcf3630ce02cddf15",
+      "shared_sha256": "4aa5ac6d01ac278e01053fdb19a51886f639b7471f8c62404d8238100d9407bc"
+    },
+    "04-e2e-new-2.json": {
+      "original_sha256": "831816040b4353a4eedc4bbca340d4d407e76177dbf36b3d644ab944db5b5983",
+      "shared_sha256": "d28627ddeec66048709d4bb8c64ba355662f18b653348714d28f5b2159fbf101"
+    },
+    "04-e2e-old-1.json": {
+      "original_sha256": "92eb62f35b16d29848d1475c9d324901fc970078043fa8cdb2c39fab1acdd64b",
+      "shared_sha256": "9ccd31ce5b116e21a63b0417be5252e2b812ba8eb02e891736774d181c6ec80c"
+    },
+    "04-e2e-old-2.json": {
+      "original_sha256": "528841182f1975df1999750fb7609de822e31b7262acd97d8fc33b771b73b4cb",
+      "shared_sha256": "e11e847191585234f8dcf71382fe7068e13cd3ef572514f134c998d6ff1b7efe"
+    },
+    "04-e2e-new-async.json": {
+      "original_sha256": "696a1558c5c1ad10e2bb444e5fa3890d23dc0a9eea5b6f786a228df911ae705f",
+      "shared_sha256": "fe0ede0895d3f0dc0ec6d06ac19df3f4215ea4d6c25dbd6bf49e61546958d810"
+    },
+    "04-microbenchmark-comparison.json": {
+      "original_sha256": "9892c8796c58074687b7b7c879cdbff575d49a30a102debf2d357f5cc026d66f",
+      "shared_sha256": "159a94787a10ae07afa6ba03503105057fa0ae867142031e0501c248db803b1b"
+    },
+    "04-e2e-comparison.json": {
+      "original_sha256": "7bd9a261ca89e36351d1ec60798e809cfee5ccbc4abdba1fb0c848f7cd4dcd9d",
+      "shared_sha256": "36472e1964137a2d3a78c5faf973f346a1ff868ad03c347e126837ee270946ea"
+    }
+  }
+}

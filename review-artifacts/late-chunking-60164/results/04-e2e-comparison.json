@@ -1,0 +1,90 @@
+{
+  "comparisons": [
+    {
+      "case": "ordinary_short",
+      "old_medians_ms": [
+        6.0730929999408545,
+        4.904360999717028
+      ],
+      "new_medians_ms": [
+        4.665358000238484,
+        4.712771499725932
+      ],
+      "median_of_medians_change_percent": -14.569175145195867
+    },
+    {
+      "case": "ordinary_batch",
+      "old_medians_ms": [
+        17.914440500135242,
+        22.058528999878035
+      ],
+      "new_medians_ms": [
+        19.01516050020291,
+        13.69055949999165
+      ],
+      "median_of_medians_change_percent": -18.18040938844011
+    },
+    {
+      "case": "ordinary_long",
+      "old_medians_ms": [
+        165.63506700003927,
+        153.12443949915178
+      ],
+      "new_medians_ms": [
+        157.30725749926933,
+        152.3540905000118
+      ],
+      "median_of_medians_change_percent": -2.8542391095504493
+    },
+    {
+      "case": "chunked_short",
+      "old_medians_ms": [
+        11.478952500510786,
+        11.21855599922128
+      ],
+      "new_medians_ms": [
+        10.31836750007642,
+        8.704626499820733
+      ],
+      "median_of_medians_change_percent": -16.189065420454796
+    },
+    {
+      "case": "chunked_batch",
+      "old_medians_ms": [
+        60.81414149957709,
+        49.50901550000708
+      ],
+      "new_medians_ms": [
+        48.303428000508575,
+        48.936335500002315
+      ],
+      "median_of_medians_change_percent": -11.85915437420142
+    },
+    {
+      "case": "chunked_long",
+      "old_medians_ms": [
+        162.24170950044936,
+        152.34482300002128
+      ],
+      "new_medians_ms": [
+        152.1130600003744,
+        150.66917999956786
+      ],
+      "median_of_medians_change_percent": -3.7523197216049686
+    },
+    {
+      "case": "mixed",
+      "old_medians_ms": [
+        222.92218199891067,
+        222.43181900012132
+      ],
+      "new_medians_ms": [
+        220.63389800041477,
+        216.81953400002385
+      ],
+      "median_of_medians_change_percent": -1.7739975347410342
+    }
+  ],
+  "minimum_cosine": 0.999957263469696,
+  "caveat": "Single laptop GPU; between-run variation. No robust end-to-end speedup claim."
+}
