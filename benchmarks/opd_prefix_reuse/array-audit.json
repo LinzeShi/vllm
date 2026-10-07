@@ -1,0 +1,18 @@
+{
+  "arrays_checked": {
+    "v2-tp1-b2048-bi0": 38,
+    "v2-tp1-b2048-bi1": 38,
+    "v2-tp1-b512-bi0": 39,
+    "v2-tp1-b512-bi1": 39,
+    "v2-tp2-b512-bi0": 39,
+    "v2-tp2-b512-bi1": 39,
+    "v2-tp4-b512-bi0": 39,
+    "v2-tp4-b512-bi1": 39
+  },
+  "total_comparisons": 310,
+  "batch_invariant_exact_comparisons": 155,
+  "no_nan_or_positive_inf": true,
+  "ragged_padding_checked": true,
+  "first_and_last_rows_included": true,
+  "scope": "Saved boundary, real-response and preemption arrays; timed replays checked output shapes and finite target scores but did not retain every score array."
+}
