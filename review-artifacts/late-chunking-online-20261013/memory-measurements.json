@@ -1,0 +1,168 @@
+{
+  "kind": "offline worker CUDA allocator peak, separate from HTTP timings; both modes warmed",
+  "model": "intfloat/multilingual-e5-small",
+  "revision": "614241f622f53c4eeff9890bdc4f31cfecc418b3",
+  "dtype": "bfloat16",
+  "records": [
+    {
+      "input_tokens_per_doc": 52,
+      "batch": 1,
+      "chunk_size": 16,
+      "mode": "client",
+      "peaks_bytes": [
+        {
+          "allocated": 246081024,
+          "reserved": 251658240
+        },
+        {
+          "allocated": 246081024,
+          "reserved": 251658240
+        },
+        {
+          "allocated": 246081024,
+          "reserved": 251658240
+        }
+      ]
+    },
+    {
+      "input_tokens_per_doc": 52,
+      "batch": 1,
+      "chunk_size": 16,
+      "mode": "native",
+      "peaks_bytes": [
+        {
+          "allocated": 246081024,
+          "reserved": 251658240
+        },
+        {
+          "allocated": 246081024,
+          "reserved": 251658240
+        },
+        {
+          "allocated": 246081024,
+          "reserved": 251658240
+        }
+      ]
+    },
+    {
+      "input_tokens_per_doc": 244,
+      "batch": 1,
+      "chunk_size": 32,
+      "mode": "client",
+      "peaks_bytes": [
+        {
+          "allocated": 247703040,
+          "reserved": 253755392
+        },
+        {
+          "allocated": 247703040,
+          "reserved": 253755392
+        },
+        {
+          "allocated": 247703040,
+          "reserved": 253755392
+        }
+      ]
+    },
+    {
+      "input_tokens_per_doc": 244,
+      "batch": 1,
+      "chunk_size": 32,
+      "mode": "native",
+      "peaks_bytes": [
+        {
+          "allocated": 247703040,
+          "reserved": 253755392
+        },
+        {
+          "allocated": 247703040,
+          "reserved": 253755392
+        },
+        {
+          "allocated": 247703040,
+          "reserved": 253755392
+        }
+      ]
+    },
+    {
+      "input_tokens_per_doc": 436,
+      "batch": 4,
+      "chunk_size": 64,
+      "mode": "client",
+      "peaks_bytes": [
+        {
+          "allocated": 256867840,
+          "reserved": 278921216
+        },
+        {
+          "allocated": 256867840,
+          "reserved": 278921216
+        },
+        {
+          "allocated": 256867840,
+          "reserved": 278921216
+        }
+      ]
+    },
+    {
+      "input_tokens_per_doc": 436,
+      "batch": 4,
+      "chunk_size": 64,
+      "mode": "native",
+      "peaks_bytes": [
+        {
+          "allocated": 256867840,
+          "reserved": 278921216
+        },
+        {
+          "allocated": 256867840,
+          "reserved": 278921216
+        },
+        {
+          "allocated": 256867840,
+          "reserved": 278921216
+        }
+      ]
+    },
+    {
+      "input_tokens_per_doc": 52,
+      "batch": 1,
+      "chunk_size": 1,
+      "mode": "client",
+      "peaks_bytes": [
+        {
+          "allocated": 246081024,
+          "reserved": 278921216
+        },
+        {
+          "allocated": 246081024,
+          "reserved": 278921216
+        },
+        {
+          "allocated": 246081024,
+          "reserved": 278921216
+        }
+      ]
+    },
+    {
+      "input_tokens_per_doc": 52,
+      "batch": 1,
+      "chunk_size": 1,
+      "mode": "native",
+      "peaks_bytes": [
+        {
+          "allocated": 246081024,
+          "reserved": 278921216
+        },
+        {
+          "allocated": 246081024,
+          "reserved": 278921216
+        },
+        {
+          "allocated": 246081024,
+          "reserved": 278921216
+        }
+      ]
+    }
+  ]
+}
