@@ -1,0 +1,15 @@
+{
+  "source_base": "90d6d871d6700dd229a76b788bf0dca22bab6c70",
+  "wheel_commit": "39983a5e7a5a575a7829f5d5ada50a33d9337ec1",
+  "torch": "2.14.0+cu130",
+  "cuda": "13.0",
+  "gpu_count": 4,
+  "source_sha256": {
+    "vllm/v1/request.py": "c467930bdf52e1af896d96cfbe091e39a5cf3aa7de2610ef096f6f6d5a2c605e",
+    "vllm/v1/core/kv_cache_manager.py": "179bb7d6d53aab9623ea46f5dd8d2d6cfcb7d3107799ac3b1045e54c2a18394d",
+    "vllm/v1/core/sched/scheduler.py": "50eae11492b82bca890b081b30eb4c8a8c89a2cd10d73cc6bb570dba51968ee4",
+    "vllm/sampling_params.py": "fae58120d642d8f2f9bd78606364ada0bf92c5d60ce08d5896d488cc2d2017ec"
+  },
+  "hardware": "4 x NVIDIA A100-SXM4-80GB, NVLink (NV12)",
+  "batch_invariant": false
+}

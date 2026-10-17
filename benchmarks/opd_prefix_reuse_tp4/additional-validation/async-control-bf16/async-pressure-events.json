@@ -1,0 +1,550 @@
+{
+  "lookups": [
+    {
+      "mode": "baseline",
+      "id": "1-a089ec68",
+      "hit": 0,
+      "cap": 128,
+      "preemptions": 0,
+      "skip": true
+    },
+    {
+      "mode": "baseline",
+      "id": "2-a188473b",
+      "hit": 0,
+      "cap": 128,
+      "preemptions": 0,
+      "skip": true
+    },
+    {
+      "mode": "baseline",
+      "id": "2-a188473b",
+      "hit": 0,
+      "cap": 128,
+      "preemptions": 0,
+      "skip": true
+    },
+    {
+      "mode": "baseline",
+      "id": "2-a188473b",
+      "hit": 0,
+      "cap": 128,
+      "preemptions": 0,
+      "skip": true
+    },
+    {
+      "mode": "baseline",
+      "id": "3-9177a90c",
+      "hit": 0,
+      "cap": 128,
+      "preemptions": 0,
+      "skip": true
+    },
+    {
+      "mode": "baseline",
+      "id": "3-9177a90c",
+      "hit": 0,
+      "cap": 128,
+      "preemptions": 0,
+      "skip": true
+    },
+    {
+      "mode": "baseline",
+      "id": "3-9177a90c",
+      "hit": 0,
+      "cap": 128,
+      "preemptions": 0,
+      "skip": true
+    },
+    {
+      "mode": "baseline",
+      "id": "4-94e5874a",
+      "hit": 0,
+      "cap": 128,
+      "preemptions": 0,
+      "skip": true
+    },
+    {
+      "mode": "baseline",
+      "id": "4-94e5874a",
+      "hit": 0,
+      "cap": 128,
+      "preemptions": 0,
+      "skip": true
+    },
+    {
+      "mode": "baseline",
+      "id": "4-94e5874a",
+      "hit": 0,
+      "cap": 128,
+      "preemptions": 0,
+      "skip": true
+    },
+    {
+      "mode": "baseline",
+      "id": "5-91420cd0",
+      "hit": 0,
+      "cap": 128,
+      "preemptions": 0,
+      "skip": true
+    },
+    {
+      "mode": "baseline",
+      "id": "5-91420cd0",
+      "hit": 0,
+      "cap": 128,
+      "preemptions": 0,
+      "skip": true
+    },
+    {
+      "mode": "baseline",
+      "id": "5-91420cd0",
+      "hit": 0,
+      "cap": 128,
+      "preemptions": 0,
+      "skip": true
+    },
+    {
+      "mode": "baseline",
+      "id": "6-90bcb7f1",
+      "hit": 0,
+      "cap": 128,
+      "preemptions": 0,
+      "skip": true
+    },
+    {
+      "mode": "baseline",
+      "id": "6-90bcb7f1",
+      "hit": 0,
+      "cap": 128,
+      "preemptions": 0,
+      "skip": true
+    },
+    {
+      "mode": "baseline",
+      "id": "6-90bcb7f1",
+      "hit": 0,
+      "cap": 128,
+      "preemptions": 0,
+      "skip": true
+    },
+    {
+      "mode": "baseline",
+      "id": "7-ba74e95b",
+      "hit": 0,
+      "cap": 128,
+      "preemptions": 0,
+      "skip": true
+    },
+    {
+      "mode": "baseline",
+      "id": "7-ba74e95b",
+      "hit": 0,
+      "cap": 128,
+      "preemptions": 0,
+      "skip": true
+    },
+    {
+      "mode": "baseline",
+      "id": "7-ba74e95b",
+      "hit": 0,
+      "cap": 128,
+      "preemptions": 0,
+      "skip": true
+    },
+    {
+      "mode": "baseline",
+      "id": "8-b1d3f574",
+      "hit": 0,
+      "cap": 128,
+      "preemptions": 0,
+      "skip": true
+    },
+    {
+      "mode": "baseline",
+      "id": "8-b1d3f574",
+      "hit": 0,
+      "cap": 128,
+      "preemptions": 0,
+      "skip": true
+    },
+    {
+      "mode": "baseline",
+      "id": "8-b1d3f574",
+      "hit": 0,
+      "cap": 128,
+      "preemptions": 0,
+      "skip": true
+    },
+    {
+      "mode": "bounded",
+      "id": "10-bbe8e392",
+      "hit": 128,
+      "cap": 128,
+      "preemptions": 0,
+      "skip": false
+    },
+    {
+      "mode": "bounded",
+      "id": "11-99b257cd",
+      "hit": 128,
+      "cap": 128,
+      "preemptions": 0,
+      "skip": false
+    },
+    {
+      "mode": "bounded",
+      "id": "11-99b257cd",
+      "hit": 128,
+      "cap": 128,
+      "preemptions": 0,
+      "skip": false
+    },
+    {
+      "mode": "bounded",
+      "id": "11-99b257cd",
+      "hit": 128,
+      "cap": 128,
+      "preemptions": 0,
+      "skip": false
+    },
+    {
+      "mode": "bounded",
+      "id": "12-b22bf029",
+      "hit": 128,
+      "cap": 128,
+      "preemptions": 0,
+      "skip": false
+    },
+    {
+      "mode": "bounded",
+      "id": "12-b22bf029",
+      "hit": 128,
+      "cap": 128,
+      "preemptions": 0,
+      "skip": false
+    },
+    {
+      "mode": "bounded",
+      "id": "12-b22bf029",
+      "hit": 128,
+      "cap": 128,
+      "preemptions": 0,
+      "skip": false
+    },
+    {
+      "mode": "bounded",
+      "id": "13-be453f8a",
+      "hit": 128,
+      "cap": 128,
+      "preemptions": 0,
+      "skip": false
+    },
+    {
+      "mode": "bounded",
+      "id": "13-be453f8a",
+      "hit": 128,
+      "cap": 128,
+      "preemptions": 0,
+      "skip": false
+    },
+    {
+      "mode": "bounded",
+      "id": "13-be453f8a",
+      "hit": 128,
+      "cap": 128,
+      "preemptions": 0,
+      "skip": false
+    },
+    {
+      "mode": "bounded",
+      "id": "14-8d6d292a",
+      "hit": 128,
+      "cap": 128,
+      "preemptions": 0,
+      "skip": false
+    },
+    {
+      "mode": "bounded",
+      "id": "14-8d6d292a",
+      "hit": 128,
+      "cap": 128,
+      "preemptions": 0,
+      "skip": false
+    },
+    {
+      "mode": "bounded",
+      "id": "14-8d6d292a",
+      "hit": 128,
+      "cap": 128,
+      "preemptions": 0,
+      "skip": false
+    },
+    {
+      "mode": "bounded",
+      "id": "15-9bb42d13",
+      "hit": 128,
+      "cap": 128,
+      "preemptions": 0,
+      "skip": false
+    },
+    {
+      "mode": "bounded",
+      "id": "15-9bb42d13",
+      "hit": 128,
+      "cap": 128,
+      "preemptions": 0,
+      "skip": false
+    },
+    {
+      "mode": "bounded",
+      "id": "15-9bb42d13",
+      "hit": 128,
+      "cap": 128,
+      "preemptions": 0,
+      "skip": false
+    },
+    {
+      "mode": "bounded",
+      "id": "16-9251d380",
+      "hit": 128,
+      "cap": 128,
+      "preemptions": 0,
+      "skip": false
+    },
+    {
+      "mode": "bounded",
+      "id": "16-9251d380",
+      "hit": 128,
+      "cap": 128,
+      "preemptions": 0,
+      "skip": false
+    },
+    {
+      "mode": "bounded",
+      "id": "16-9251d380",
+      "hit": 128,
+      "cap": 128,
+      "preemptions": 0,
+      "skip": false
+    },
+    {
+      "mode": "bounded",
+      "id": "17-9658c620",
+      "hit": 128,
+      "cap": 128,
+      "preemptions": 0,
+      "skip": false
+    },
+    {
+      "mode": "bounded",
+      "id": "17-9658c620",
+      "hit": 128,
+      "cap": 128,
+      "preemptions": 0,
+      "skip": false
+    },
+    {
+      "mode": "bounded",
+      "id": "17-9658c620",
+      "hit": 128,
+      "cap": 128,
+      "preemptions": 0,
+      "skip": false
+    },
+    {
+      "mode": "preempted",
+      "id": "async-preempt-0-9f480cca",
+      "hit": 128,
+      "cap": 128,
+      "preemptions": 0,
+      "skip": false
+    },
+    {
+      "mode": "preempted",
+      "id": "async-preempt-1-a0caa197",
+      "hit": 128,
+      "cap": 128,
+      "preemptions": 0,
+      "skip": false
+    },
+    {
+      "mode": "preempted",
+      "id": "async-preempt-0-9f480cca",
+      "hit": 128,
+      "cap": 128,
+      "preemptions": 1,
+      "skip": false
+    },
+    {
+      "mode": "preempted",
+      "id": "async-preempt-0-9f480cca",
+      "hit": 128,
+      "cap": 128,
+      "preemptions": 1,
+      "skip": false
+    },
+    {
+      "mode": "preempted",
+      "id": "async-preempt-0-9f480cca",
+      "hit": 128,
+      "cap": 128,
+      "preemptions": 1,
+      "skip": false
+    },
+    {
+      "mode": "preempted",
+      "id": "async-preempt-2-af416850",
+      "hit": 128,
+      "cap": 128,
+      "preemptions": 0,
+      "skip": false
+    },
+    {
+      "mode": "preempted",
+      "id": "async-preempt-2-af416850",
+      "hit": 128,
+      "cap": 128,
+      "preemptions": 0,
+      "skip": false
+    },
+    {
+      "mode": "preempted",
+      "id": "async-preempt-2-af416850",
+      "hit": 128,
+      "cap": 128,
+      "preemptions": 0,
+      "skip": false
+    },
+    {
+      "mode": "preempted",
+      "id": "async-preempt-3-b8839901",
+      "hit": 128,
+      "cap": 128,
+      "preemptions": 0,
+      "skip": false
+    },
+    {
+      "mode": "preempted",
+      "id": "async-preempt-3-b8839901",
+      "hit": 128,
+      "cap": 128,
+      "preemptions": 0,
+      "skip": false
+    },
+    {
+      "mode": "preempted",
+      "id": "async-preempt-3-b8839901",
+      "hit": 128,
+      "cap": 128,
+      "preemptions": 0,
+      "skip": false
+    },
+    {
+      "mode": "preempted",
+      "id": "async-preempt-4-afbdc463",
+      "hit": 128,
+      "cap": 128,
+      "preemptions": 0,
+      "skip": false
+    },
+    {
+      "mode": "preempted",
+      "id": "async-preempt-4-afbdc463",
+      "hit": 128,
+      "cap": 128,
+      "preemptions": 0,
+      "skip": false
+    },
+    {
+      "mode": "preempted",
+      "id": "async-preempt-4-afbdc463",
+      "hit": 128,
+      "cap": 128,
+      "preemptions": 0,
+      "skip": false
+    },
+    {
+      "mode": "preempted",
+      "id": "async-preempt-5-aea66085",
+      "hit": 128,
+      "cap": 128,
+      "preemptions": 0,
+      "skip": false
+    },
+    {
+      "mode": "preempted",
+      "id": "async-preempt-5-aea66085",
+      "hit": 128,
+      "cap": 128,
+      "preemptions": 0,
+      "skip": false
+    },
+    {
+      "mode": "preempted",
+      "id": "async-preempt-5-aea66085",
+      "hit": 128,
+      "cap": 128,
+      "preemptions": 0,
+      "skip": false
+    },
+    {
+      "mode": "preempted",
+      "id": "async-preempt-6-bc953954",
+      "hit": 128,
+      "cap": 128,
+      "preemptions": 0,
+      "skip": false
+    },
+    {
+      "mode": "preempted",
+      "id": "async-preempt-6-bc953954",
+      "hit": 128,
+      "cap": 128,
+      "preemptions": 0,
+      "skip": false
+    },
+    {
+      "mode": "preempted",
+      "id": "async-preempt-6-bc953954",
+      "hit": 128,
+      "cap": 128,
+      "preemptions": 0,
+      "skip": false
+    },
+    {
+      "mode": "preempted",
+      "id": "async-preempt-7-90049a7d",
+      "hit": 128,
+      "cap": 128,
+      "preemptions": 0,
+      "skip": false
+    },
+    {
+      "mode": "preempted",
+      "id": "async-preempt-7-90049a7d",
+      "hit": 128,
+      "cap": 128,
+      "preemptions": 0,
+      "skip": false
+    },
+    {
+      "mode": "preempted",
+      "id": "async-preempt-7-90049a7d",
+      "hit": 128,
+      "cap": 128,
+      "preemptions": 0,
+      "skip": false
+    }
+  ],
+  "preemptions": [
+    {
+      "mode": "preempted",
+      "id": "async-preempt-0-9f480cca",
+      "progress": 224,
+      "start": 128,
+      "in_flight_tokens": 48,
+      "output_tokens": 0
+    }
+  ]
+}

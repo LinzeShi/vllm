@@ -1,0 +1,32 @@
+{
+  "model": "Qwen/Qwen3-32B",
+  "revision": "9216db5781bf21249d130ec9da846c4624c16137",
+  "tp": 4,
+  "dtype": "bfloat16",
+  "kv_dtype": "auto (bfloat16)",
+  "batch_invariant": false,
+  "enforce_eager": false,
+  "async_scheduling": false,
+  "token_budgets": [
+    512,
+    2048
+  ],
+  "max_num_seqs": 4,
+  "block_size": 16,
+  "num_gpu_blocks": 2048,
+  "repetitions": 6,
+  "warmups_per_case_per_mode": 1,
+  "alternating_order": true,
+  "cold_cache_every_repetition": true,
+  "timed_scope": "engine scoring of four responses including one generated token per response; validation and npz writes excluded",
+  "group_count": 8,
+  "responses_per_group": 4,
+  "arrival": [
+    "grouped",
+    "20ms target gaps, admitted at engine step boundaries"
+  ],
+  "aggregation": "sum of per-group medians, four groups per workload",
+  "numerics": "report all differences without asserting bit-exact BF16; every timing output must be complete and finite",
+  "tests_before_not_during_timing": true,
+  "cloud_budget_hours": 1.5
+}

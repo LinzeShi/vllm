@@ -1,0 +1,87 @@
+{
+  "tokenizer_json_identical": true,
+  "tokenizer_sha256": "aeb13307a71acd8fe81861d94ad54ab689df773318809eed3cbe794b4492dae4",
+  "generated_sha256": "5832d8354af07ba3ab2998354a73f1ca466312b0667140a6024641d4578aa906",
+  "groups": [
+    {
+      "group": "math-0",
+      "p": 199,
+      "response_lengths": [
+        1024,
+        1024,
+        1024,
+        1024
+      ]
+    },
+    {
+      "group": "math-1",
+      "p": 142,
+      "response_lengths": [
+        1024,
+        992,
+        650,
+        1024
+      ]
+    },
+    {
+      "group": "math-2",
+      "p": 156,
+      "response_lengths": [
+        1024,
+        1024,
+        1024,
+        1024
+      ]
+    },
+    {
+      "group": "math-3",
+      "p": 209,
+      "response_lengths": [
+        467,
+        469,
+        437,
+        664
+      ]
+    },
+    {
+      "group": "qasper-0",
+      "p": 3944,
+      "response_lengths": [
+        27,
+        21,
+        32,
+        18
+      ]
+    },
+    {
+      "group": "qasper-1",
+      "p": 3282,
+      "response_lengths": [
+        58,
+        43,
+        51,
+        38
+      ]
+    },
+    {
+      "group": "qasper-3",
+      "p": 2933,
+      "response_lengths": [
+        13,
+        22,
+        30,
+        26
+      ]
+    },
+    {
+      "group": "qasper-8",
+      "p": 3425,
+      "response_lengths": [
+        31,
+        41,
+        40,
+        40
+      ]
+    }
+  ]
+}
