@@ -622,6 +622,20 @@ class TestMalformedToolSchemaDefs:
         assert isinstance(schema, dict)
 
 
+@pytest.mark.parametrize(
+    "properties",
+    [pytest.param([1], id="list"), pytest.param("x", id="string")],
+)
+def test_find_tool_properties_ignores_non_object_properties(properties):
+    """Output parsers call `.get()`/`.items()` on the result, so a client's
+    non-object `properties` must not reach them (HTTP 500 after generation)."""
+    tools = [
+        TestMalformedToolSchemaDefs._tool({"type": "object", "properties": properties})
+    ]
+
+    assert find_tool_properties(tools, "get_weather") == {}
+
+
 class TestParallelToolCallsConstraint:
     """`parallel_tool_calls=false` must be enforced by the decoding grammar.
 
